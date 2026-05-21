@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Shoujo",
+  "description": "Uma agenda mágica estilo retro-anime anos 90 shoujo para organizar seus compromissos e tarefas de forma fofa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
